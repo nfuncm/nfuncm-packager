@@ -1,5 +1,5 @@
 {
-  "name": "nfuncm-packager",
+  "name": "@nfuncm/nfuncm-packager",
   "version": "1.0.0",
   "description": "Function packager for NfuncM",
   "main": "./src/index.js",
@@ -10,7 +10,7 @@
     "nfuncm"
   ],
   "bin": {
-    "nfm-pack": "./bin/cli.js"
+    "nfuncm-pack": "./bin/cli.js"
   },
   "repository": "https://github.com/nfuncm/nfuncm-packager",
   "author": "confused-Techie",

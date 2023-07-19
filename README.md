@@ -7,7 +7,7 @@ Assists in packaging code to be ready to be consumed as an NfuncM Function.
 To use, just navigate to the directory where your function lives, and run:
 
 ```shell
-nfm-pack
+nfuncm-pack
 ```
 
 ## What NfuncM Package Does

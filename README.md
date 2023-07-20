@@ -1,14 +1,22 @@
-# NfuncM Package
+# NfuncM Packager
 
 Assists in packaging code to be ready to be consumed as an NfuncM Function.
 
 ## Usage
 
-To use, just navigate to the directory where your function lives, and run:
+To use, first make sure to install:
 
 ```shell
-nfuncm-pack
+npm install @nfuncm/nfuncm-packager -D
 ```
+
+Then once ready to package your function, run:
+
+```shell
+npm exec nfuncm-pack
+```
+
+Alternatively, you can install NfuncM Packager globally, to use `nfuncm-pack` anywhere.
 
 ## What NfuncM Package Does
 

@@ -1,6 +1,6 @@
 {
   "name": "@nfuncm/nfuncm-packager",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Function packager for NfuncM",
   "main": "./src/index.js",
   "scripts": {
